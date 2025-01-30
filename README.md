@@ -1,4 +1,4 @@
-# **Projeto: Automação de Cadastro em Formulário Google Forms com Selenium**
+# **Projeto: Automação Web**
 
 ## **Descrição**
 Este projeto foi desenvolvido utilizando para automatizar o preenchimento e envio de um formulário do Google Forms. O objetivo é ler os dados de uma planilha e inseri-los automaticamente no formulário, garantindo que cada cadastro seja feito de forma individual e eficiente.
