@@ -6,8 +6,8 @@
 ## Tecnologias Utilizadas: 
 Pandas , Selenium , Python e Webdriver Manager
 ## Funcionalidades:  
-Leitura dos dados a partir de uma planilha Excel.
-Abertura do navegador e navegação automática até o formulário.
+1. Leitura dos dados a partir de uma planilha Excel.
+2. Abertura do navegador e navegação automática até o formulário.
 Preenchimento automático dos campos (Nome, E-mail, Telefone, Endereço, Idade e Sexo).
 Seleção do sexo baseado em múltipla escolha (Masculino/Feminino).
 Envio do formulário e recarregamento para o próximo cadastro.
