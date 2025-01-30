@@ -8,8 +8,8 @@ Pandas , Selenium , Python e Webdriver Manager
 ## Funcionalidades:  
 1. Leitura dos dados a partir de uma planilha Excel.
 2. Abertura do navegador e navegação automática até o formulário.
-Preenchimento automático dos campos (Nome, E-mail, Telefone, Endereço, Idade e Sexo).
-Seleção do sexo baseado em múltipla escolha (Masculino/Feminino).
-Envio do formulário e recarregamento para o próximo cadastro.
-Processamento de uma pessoa por vez, abrindo e fechando o navegador a cada envio.
-Possibilidade de interromper a execução manualmente pressionando Ctrl + C
+3. Preenchimento automático dos campos (Nome, E-mail, Telefone, Endereço, Idade e Sexo).
+4. Seleção do sexo baseado em múltipla escolha (Masculino/Feminino).
+5. Envio do formulário e recarregamento para o próximo cadastro.
+6. Processamento de uma pessoa por vez, abrindo e fechando o navegador a cada envio.
+7. Possibilidade de interromper a execução manualmente pressionando Ctrl + C
